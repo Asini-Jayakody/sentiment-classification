@@ -36,7 +36,7 @@ This project implements a sentiment analysis classifier that predicts whether a 
 1. **Clone the repository**
 
 ```bash
-md sentiment-classification
+mkdir sentiment-classification
 cd sentiment-classification
 git clone https://github.com/Asini-Jayakody/sentiment-classification.git
 ```
