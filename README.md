@@ -61,7 +61,12 @@ pip install -r requirements.txt
 Full model training, evaluating and predicting can done by running the following command.
 
 ```bash
-python sentiment_classifier.py
+python -m arg_sentiment_classifier \
+    --data_path ../data/imdb.csv \
+    --model_save_path ../saved_model/ \
+    --output_csv_path ../results.csv \
+    --batch_size 16 \
+    --epochs 3
 ```
 
 ## External Libraries
