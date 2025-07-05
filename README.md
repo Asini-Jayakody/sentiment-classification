@@ -1,6 +1,6 @@
 # Sentiment Classification Project
 
-This project implements a sentiment analysis classifier that predicts whether a given text expresses a **positive-1** or **negative-0** sentiment. The main approach uses a deep learning model based on a pre-trained DistilBERT transformer. Additionally, an LLM-based solution is included to address the same problem with a large language model.
+This project implements a sentiment analysis classifier that predicts whether a given text expresses a **positive-1** or **negative-0** sentiment. The main approach uses a deep learning model based on a pre-trained DistilBERT transformer.
 
 ---
 
